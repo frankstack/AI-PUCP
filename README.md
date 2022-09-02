@@ -14,3 +14,7 @@ Scores:
 - **Redes Neuronales para el Análisis de Series Temporales (Neural Networks for Time Series Analysis - _NNTS_) | Score: 16/20**
 - **Desarrollo de Aplicaciones con Visión Artificial (Artificial Vision Applications - _AVA_) | Score: 18/20**
 - **Análisis de Sentimiento en Redes Sociales (Sentiment Analysis for Social Media - _SASM_) | Score: 20/20**
+
+**IMPORTANT**. 
+
+Please, to display the full version of each _.ipynb_ file (such as graphs and plots), copy its github link and paste it on https://nbviewer.org/.

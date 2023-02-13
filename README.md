@@ -17,6 +17,7 @@ Scores:
 
 Final mark: **18.33/20**
 
+The authenticity of the diploma can be verified at https://eros.pucp.edu.pe/certificaciones/
 
 **IMPORTANT**
 

@@ -20,7 +20,7 @@ Final mark: **18.33/20** (eq. GPA 3.89 / 4.0)
 To verify the authenticity of the diploma file "Diploma_AIPUCP.pdf", please:
 - Go to the university repositorium: https://eros.pucp.edu.pe/certificaciones/ 
 - Move to the tab "Formación Continua y Eventos Académicos".
-- Introduce the № 2023-410-B-0000013-01. Then, introduce the verification code: JF9W1LS5.
+- Introduce the №: 2023-410-B-0000013-01. Then, introduce the verification code: JF9W1LS5.
 - Finally, click on the blue button "Validar", and download the file.
 
 **IMPORTANT**

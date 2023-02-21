@@ -3,6 +3,8 @@ Specialization in Artificial Intelligence Development by the Pontificia Universi
 
 Concluded at April 19th, 2021.
 
+Issuance of Diploma: Febraury 2023.
+
 Scores:
 
 - **Python para Ciencia de Datos (Python for Data Science - _PDS_) | Score: 17/20**

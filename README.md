@@ -1,9 +1,9 @@
 # AI-PUCP
 Specialization in Artificial Intelligence Development by the Pontificia Universidad Católica del Perú.
 
-Concluded at April 19th, 2021.
+**Concluded**: April 19th, 2021.
 
-Issuance of Diploma: Febraury 2023.
+**Issuance of Diploma**: Febraury 14th, 2023.
 
 Scores:
 

@@ -17,7 +17,7 @@ Scores:
 - **Desarrollo de Aplicaciones con Visión Artificial (Artificial Vision Applications - _AVA_) | Score: 18/20**
 - **Análisis de Sentimiento en Redes Sociales (Sentiment Analysis for Social Media - _SASM_) | Score: 20/20**
 
-Final mark: **18.33/20** (eq. GPA 3.89 / 4.0)
+> FINAL MARK: **18.33/20** (eq. GPA 3.89 / 4.0)
 
 To verify the authenticity of the diploma file "Diploma_AIPUCP.pdf", please:
 - Go to the university repositorium: https://eros.pucp.edu.pe/certificaciones/ 
